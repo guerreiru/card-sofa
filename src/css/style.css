@@ -113,4 +113,8 @@ model-viewer {
   .static-img-wrapper {
     padding: 80px 25px 29px;
   }
+
+  .button-cart {
+    border: 1px solid var(--purple-900);
+  }
 }
